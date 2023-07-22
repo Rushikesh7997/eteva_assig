@@ -1,0 +1,41 @@
+.productImage {
+  width: 250px;
+  height: 250px;
+}
+
+.container_product {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product_conatiner {
+  border: solid 1px black;
+  padding: 10px;
+}
+
+body {
+  margin: 40px;
+}
+
+.productName {
+  text-align: center;
+}
+
+.button {
+  padding: 10px 20px;
+  color: teal;
+  background-color: aquamarine;
+  border-radius: 10px;
+  /* height: 50px; */
+  width: 100px;
+  margin-left: 25%;
+}
+
+.header_Container {
+  text-align: center;
+}
+.productprice {
+  text-align: center;
+  font-size: 16px;
+}
